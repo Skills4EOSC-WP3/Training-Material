@@ -1,6 +1,6 @@
 ![](./resources/attachments/header.png)
 
-# FAIR-by-Design Methodology - Templates Repository - WP3 - betty
+# FAIR-by-Design Methodology - Templates Repository - WP3 
 
 This repository hosts all templates necessary for the development of FAIR-by-Design learning materials for the requirements of the Skills4EOSC project.
 Use these templates together with 
