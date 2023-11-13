@@ -76,7 +76,7 @@ You can also create mixed lists:
 To add an image, first place the image in the /attachments folder and then use a relative link similar to above using a ! in front. 
 All images should be located in the attachments folder that is on the same level with the content file. 
 
-![alternative text for accessibility an image of a macaw parrot](attachments/macaw-g8f80c4f64_640.jpg)
+![alternative text for accessibility an image of a macaw parrot](resources/Learning%20Unit1/attachments/macaw-g8f80c4f64_640.jpg)
 
 Caption: Macaw Parrot
 Image by [Karina Copa](https://pixabay.com/users/kayuli-781524) from [Pixabay](https://pixabay.com)

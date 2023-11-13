@@ -13,11 +13,15 @@ Introduction
 
 ## Learning Objectives
 
-- min one learning objective using the verbs from the Blooms taxonomy
+- Recognize and describe the basic principles of open science, FAIR, and RDM.
+- Identify the basic needs for OS, FAIR, RDM, and stay updated on current trends.
 
 ## Target Audience
 
-- who is this learning unit meant for
+- Policy Maker Type 1
+- Policy Maker Type 2 
+- Civil Servant
+- Knowledge Broker
 
 ## Duration
 
@@ -25,12 +29,16 @@ Introduction
 
 ## Prerequisites
 
-- list any knowledge that is required so that the learning unit can be followed
+- No prior knowledge is required so that the learning unit can be followed
 
 ## Learning Tools
 
+- Training BBB room
+- Browser
+- 
 - list any tools that are necessary to be used to complete the learning unit
 - examples include required software, access to resources, etc.
+- Menti access or BBB quiz interaction
 
 ## Learning Content Topic
 
