@@ -7,7 +7,7 @@ tags:
     - FAIR Learning Unit Template
 ---
 
-# Learning Unit Template
+# Fundamentals of Open Science
 
 Introduction
 
