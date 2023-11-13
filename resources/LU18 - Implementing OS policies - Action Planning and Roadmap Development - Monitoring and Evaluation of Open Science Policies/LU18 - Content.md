@@ -7,16 +7,16 @@ tags:
     - FAIR Learning Unit Template
 ---
 
-# Strategies for Effective Communication
+# Implementing OS policies - Action Planning and Roadmap Development - Monitoring and Evaluation of Open Science Policies
 
 Introduction
 
 ## Learning Objectives
 
-- Discover strategies for dealing with uncertainty and complexity in decision-making and effective interpretation of findings.
-- Recognize and apply best practices in engaging policymakers
-- Communicate scientific insights and evidence to policy makers and other stakeholders in a clear and compelling manner.
-
+- Design a roadmap to support the implementation of Open Science workflows and policies.
+- Identify challenges and key priorities in Open Science policy implementation.
+- Define measurable performance indicators and methods for monitoring progress.
+- Adapt policies based on new evidence and changing circumstances.
 
 
 ## Target Audience
@@ -80,7 +80,7 @@ You can also create mixed lists:
 To add an image, first place the image in the /attachments folder and then use a relative link similar to above using a ! in front. 
 All images should be located in the attachments folder that is on the same level with the content file. 
 
-![alternative text for accessibility an image of a macaw parrot](resources/LU08%20-%20Open%20Science%20and%20Society/attachments/macaw-g8f80c4f64_640.jpg)
+![alternative text for accessibility an image of a macaw parrot](resources/LU18%20-%20Implementing%20OS%20policies%20-%20Action%20Planning%20and%20Roadmap%20Development%20-%20Monitoring%20and%20Evaluation%20of%20Open%20Science%20Policies/attachments/macaw-g8f80c4f64_640.jpg)
 
 Caption: Macaw Parrot
 Image by [Karina Copa](https://pixabay.com/users/kayuli-781524) from [Pixabay](https://pixabay.com)

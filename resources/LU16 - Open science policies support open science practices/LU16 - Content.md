@@ -7,16 +7,18 @@ tags:
     - FAIR Learning Unit Template
 ---
 
-# Fundamentals of Open Science
+# Open science policies support open science practices
 
 Introduction
 
 ## Learning Objectives
 
-- Design a roadmap to support the implementation of Open Science workflows and policies.
-- Identify challenges and key priorities in Open Science policy implementation.
-- Define measurable performance indicators and methods for monitoring progress.
-- Adapt policies based on new evidence and changing circumstances.
+- Give examples of how open science policies support open science practices
+- Recognise the challenges of implementing Open Science
+- Identify potential to overcome barriers faced by researchers in implementing OS
+- Give examples of how open science infrastructure supports open science practices
+- Recognize the importance of appropriate funding mechanisms for Open Science practices.
+- Analyse requirements to allocate funding effectively for open science initiatives, establish data repositories, and develop research data infrastructure to enhance accessibility and sharing.
 
 
 ## Target Audience
@@ -80,7 +82,7 @@ You can also create mixed lists:
 To add an image, first place the image in the /attachments folder and then use a relative link similar to above using a ! in front. 
 All images should be located in the attachments folder that is on the same level with the content file. 
 
-![alternative text for accessibility an image of a macaw parrot](attachments/macaw-g8f80c4f64_640.jpg)
+![alternative text for accessibility an image of a macaw parrot](resources/LU16%20-%20Open%20science%20policies%20support%20open%20science%20practices/attachments/macaw-g8f80c4f64_640.jpg)
 
 Caption: Macaw Parrot
 Image by [Karina Copa](https://pixabay.com/users/kayuli-781524) from [Pixabay](https://pixabay.com)

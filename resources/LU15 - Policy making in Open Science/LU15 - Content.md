@@ -13,9 +13,8 @@ Introduction
 
 ## Learning Objectives
 
-- List the types of Open Science outputs (open access publications, open data, open-source software) and their significance in evidence-based decision-making.
-- Describe the principles of modern data science algorithms and their application in decision-making.
-- Interpret basic results of statistical analyses and visualization graphs for evidence-based decision-making.
+- Explain the role of national/regional strategies and governance in promoting Open Science.
+- Clarify the goals and objectives of Open Science policy-making.
 
 
 ## Target Audience

@@ -7,17 +7,18 @@ tags:
     - FAIR Learning Unit Template
 ---
 
-# Fundamentals of Open Science
+# Recognise the role of policymakers toward taking a proactive approach to supporting OS practices
 
 Introduction
 
 ## Learning Objectives
 
-- Recognise the role of policymakers toward taking a proactive approach to supporting OS practices
-- Apply knowledge of the essential elements to develop effective open science policies, including implementing data sharing mandates, enforcing open access publication requirements, and adopting open licensing strategies.
-- Evaluate the role of interdisciplinary collaboration, international engagement, and revised research evaluation criteria in supporting open science practices and contributions.
-- Create strategies to engage effectively with stakeholders, communicate open science principles, and establish mechanisms for monitoring progress and impact, thereby fostering comprehensive open science policies.
-- Engage deeply with the movement of Responsible Research assessment starting from DORA and leading up to the CoARA. 
+- Give examples of how open science policies support open science practices
+- Recognise the challenges of implementing Open Science
+- Identify potential to overcome barriers faced by researchers in implementing OS
+- Give examples of how open science infrastructure supports open science practices
+- Recognize the importance of appropriate funding mechanisms for Open Science practices.
+- Analyse requirements to allocate funding effectively for open science initiatives, establish data repositories, and develop research data infrastructure to enhance accessibility and sharing.
 
 
 ## Target Audience
@@ -81,7 +82,7 @@ You can also create mixed lists:
 To add an image, first place the image in the /attachments folder and then use a relative link similar to above using a ! in front. 
 All images should be located in the attachments folder that is on the same level with the content file. 
 
-![alternative text for accessibility an image of a macaw parrot](resources/LU17-Recognise_the_role_of_policymakers_toward_taking_a_proactive_approach_to_supporting_OS_practices_-__(KM5-7-15)/attachments/macaw-g8f80c4f64_640.jpg)
+![alternative text for accessibility an image of a macaw parrot](resources/LU16%20-%20Open%20science%20policies%20support%20open%20science%20practices/attachments/macaw-g8f80c4f64_640.jpg)
 
 Caption: Macaw Parrot
 Image by [Karina Copa](https://pixabay.com/users/kayuli-781524) from [Pixabay](https://pixabay.com)
