@@ -7,17 +7,16 @@ tags:
     - FAIR Learning Unit Template
 ---
 
-# Fundamentals of Open Science
+# Open Science and Evidence-informed decision making
 
 Introduction
 
 ## Learning Objectives
 
-- Recognise the role of policymakers toward taking a proactive approach to supporting OS practices
-- Apply knowledge of the essential elements to develop effective open science policies, including implementing data sharing mandates, enforcing open access publication requirements, and adopting open licensing strategies.
-- Evaluate the role of interdisciplinary collaboration, international engagement, and revised research evaluation criteria in supporting open science practices and contributions.
-- Create strategies to engage effectively with stakeholders, communicate open science principles, and establish mechanisms for monitoring progress and impact, thereby fostering comprehensive open science policies.
-- Engage deeply with the movement of Responsible Research assessment starting from DORA and leading up to the CoARA. 
+- Define policy, evidence and evidence-informed policy making
+- Define the different stakeholders involved in evidence-based policy making and their role, and introduce the role of Knowledge brokers/Honest brokers (Proposed by Federica)
+- Understand the possible contributions and added value of Open Science in the practice of knowledge translation and evidence-based policy making  (Proposed by Federica)
+- Communicate data to the public in accessible ways for evidence-informed decision making
 
 
 ## Target Audience
@@ -81,7 +80,7 @@ You can also create mixed lists:
 To add an image, first place the image in the /attachments folder and then use a relative link similar to above using a ! in front. 
 All images should be located in the attachments folder that is on the same level with the content file. 
 
-![alternative text for accessibility an image of a macaw parrot](resources/LU17-Recognise_the_role_of_policymakers_toward_taking_a_proactive_approach_to_supporting_OS_practices_-__(KM5-7-15)/attachments/macaw-g8f80c4f64_640.jpg)
+![alternative text for accessibility an image of a macaw parrot](resources/LU13%20-%20Open%20Science%20and%20Evidence-informed%20decision%20making/attachments/macaw-g8f80c4f64_640.jpg)
 
 Caption: Macaw Parrot
 Image by [Karina Copa](https://pixabay.com/users/kayuli-781524) from [Pixabay](https://pixabay.com)

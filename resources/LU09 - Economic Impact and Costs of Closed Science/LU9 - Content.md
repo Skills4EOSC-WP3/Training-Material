@@ -7,17 +7,14 @@ tags:
     - FAIR Learning Unit Template
 ---
 
-# Fundamentals of Open Science
+# Economic Impact and Costs of Closed Science
 
 Introduction
 
 ## Learning Objectives
 
-- Recognise the role of policymakers toward taking a proactive approach to supporting OS practices
-- Apply knowledge of the essential elements to develop effective open science policies, including implementing data sharing mandates, enforcing open access publication requirements, and adopting open licensing strategies.
-- Evaluate the role of interdisciplinary collaboration, international engagement, and revised research evaluation criteria in supporting open science practices and contributions.
-- Create strategies to engage effectively with stakeholders, communicate open science principles, and establish mechanisms for monitoring progress and impact, thereby fostering comprehensive open science policies.
-- Engage deeply with the movement of Responsible Research assessment starting from DORA and leading up to the CoARA. 
+- Identify and recognize the costs and concerns stemming from "closed science," research misconduct, and data opacity
+- Outline the economic disadvantages and their overall impact of not supporting open science and FAIR management of research data
 
 
 ## Target Audience
@@ -81,7 +78,7 @@ You can also create mixed lists:
 To add an image, first place the image in the /attachments folder and then use a relative link similar to above using a ! in front. 
 All images should be located in the attachments folder that is on the same level with the content file. 
 
-![alternative text for accessibility an image of a macaw parrot](resources/LU17-Recognise_the_role_of_policymakers_toward_taking_a_proactive_approach_to_supporting_OS_practices_-__(KM5-7-15)/attachments/macaw-g8f80c4f64_640.jpg)
+![alternative text for accessibility an image of a macaw parrot](resources/LU09%20-%20Economic%20Impact%20and%20Costs%20of%20Closed%20Science/attachments/macaw-g8f80c4f64_640.jpg)
 
 Caption: Macaw Parrot
 Image by [Karina Copa](https://pixabay.com/users/kayuli-781524) from [Pixabay](https://pixabay.com)
