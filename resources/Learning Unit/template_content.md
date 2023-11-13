@@ -7,7 +7,7 @@ tags:
     - FAIR Learning Unit Template
 ---
 
-# Fundamentals of Open Science
+# Open Science is the new norm - Fundamentals of Open Science
 
 Introduction
 
