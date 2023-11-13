@@ -7,21 +7,21 @@ tags:
     - FAIR Learning Unit Template
 ---
 
-# Open Science is the new norm - Fundamentals of Open Science
+# Legal and Ethical Frameworks and Considerations in Open Science
 
 Introduction
 
 ## Learning Objectives
 
-- Recognize and describe the basic principles of open science, FAIR, and RDM.
-- Identify the basic needs for OS, FAIR, RDM, and stay updated on current trends.
+- Analyze the balance between exclusivity and access in the use of non-personal data
+- Identify the multiple interests involved in open science, including copyright and access rights.
+- Discuss data protection laws and intellectual property rights in the context of open science
+- Recognize the ethical considerations, including confidentiality, informed consent, and the main ethical principles and codes of conduct.
+
 
 ## Target Audience
 
-- Policy Maker Type 1
-- Policy Maker Type 2 
-- Civil Servant
-- Knowledge Broker
+- who is this learning unit meant for
 
 ## Duration
 
@@ -29,16 +29,12 @@ Introduction
 
 ## Prerequisites
 
-- No prior knowledge is required so that the learning unit can be followed
+- list any knowledge that is required so that the learning unit can be followed
 
 ## Learning Tools
 
-- Training BBB room
-- Browser
-- 
 - list any tools that are necessary to be used to complete the learning unit
 - examples include required software, access to resources, etc.
-- Menti access or BBB quiz interaction
 
 ## Learning Content Topic
 
@@ -84,7 +80,7 @@ You can also create mixed lists:
 To add an image, first place the image in the /attachments folder and then use a relative link similar to above using a ! in front. 
 All images should be located in the attachments folder that is on the same level with the content file. 
 
-![alternative text for accessibility an image of a macaw parrot](resources/LU01%20-%20Open%20Science%20is%20the%20new%20norm%20-%20Fundamental%20of%20Open%20Science/attachments/macaw-g8f80c4f64_640.jpg)
+![alternative text for accessibility an image of a macaw parrot](resources/LU04%20-%20Legal%20and%20Ethical%20Frameworks%20and%20Considerations%20in%20Open%20Science/attachments/macaw-g8f80c4f64_640.jpg)
 
 Caption: Macaw Parrot
 Image by [Karina Copa](https://pixabay.com/users/kayuli-781524) from [Pixabay](https://pixabay.com)
